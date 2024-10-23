@@ -16,3 +16,7 @@ You can buy it at [Builtbybit](https://builtbybit.com/resources/pixels-editor-fo
  - [x] Move the folder to Program Files and rename it with the name you want
 
  - [ ] Create a desktop shurtcut or and it to Start Menu from windows programs
+
+<div align="center">
+ <h3>Support in Github Issues</h3>
+</div>
