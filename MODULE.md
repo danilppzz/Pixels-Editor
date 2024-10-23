@@ -32,3 +32,11 @@ The module must have this:
             inverted_image = 255 - img_np
             return Image.fromarray(inverted_image, 'RGBA')
    ```
+
+### Dependencies
+You are allow to use this dependencies to create the module
+ - `Pillow`
+ - `NumPy`
+
+### Use the module
+Drop the .py file at the module folder at app/modules/ and run the app. if you build it well you will see at modules your module.
