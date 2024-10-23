@@ -1,6 +1,6 @@
 
 <div align="center">
- <h3>Pixels Editor</h3>
+ <h2>Pixels Editor</h2>
  Image editor to change the global color and edit your favorite textures colors
 </div>
 
