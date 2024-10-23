@@ -17,6 +17,10 @@ You can buy it at [Builtbybit](https://builtbybit.com/resources/pixels-editor-fo
 
  - [ ] Create a desktop shurtcut or and it to Start Menu from windows programs
 
+## Showcase
+
+![7](https://github.com/user-attachments/assets/d571d776-bce0-4f72-9047-05dc027ea852)
+
 <br>
 <div align="center">
  <h3>Support in Github Issues</h3>
