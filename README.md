@@ -1,4 +1,6 @@
 
+![1](https://github.com/user-attachments/assets/291b09da-01b5-4472-b92f-c95b6cc9c97d)
+
 <div align="center">
  <h2>Pixels Editor</h2>
  Image editor to change the global color and edit your favorite textures colors
