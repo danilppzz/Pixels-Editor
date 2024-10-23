@@ -3,7 +3,7 @@
 
 You can buy it at [Builtbybit](https://builtbybit.com/resources/pixels-editor-for-minecraft-items.53563/)
 
-### Index
+### INDEX
  - [Instalation](/#Instalation)
  - [1.0.1 Modules](https://github.com/danilppzz/Pixels-Editor/blob/main/MODULE.md) `module system at development`
 
