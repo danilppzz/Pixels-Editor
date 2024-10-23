@@ -16,7 +16,7 @@ app/
 The module must have this:
  - def `self` that returns a object with the information.
    
-   ```
+   ```py
     def self():
             return {
                 "name": "View Shape",
@@ -26,7 +26,7 @@ The module must have this:
    ```
  - def `load` to execute the module when people click it. the load def comes with image prop `PIL.Image` to manage it, and allways have to return `PIL.Image`
    
-   ```
+   ```py
     def load(image):
             img_np = np.array(image)
             inverted_image = 255 - img_np
