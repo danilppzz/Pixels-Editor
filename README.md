@@ -1,5 +1,8 @@
-## Pixels Editor
-Image editor to change the global color and edit your favorite textures colors
+
+<div align="center">
+ # Pixels Editor
+ Image editor to change the global color and edit your favorite textures colors
+</div>
 
 You can buy it at [Builtbybit](https://builtbybit.com/resources/pixels-editor-for-minecraft-items.53563/)
 
