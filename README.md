@@ -1,11 +1,6 @@
 
 ![1](https://github.com/user-attachments/assets/291b09da-01b5-4472-b92f-c95b6cc9c97d)
 
-<div align="center">
- <h2>Pixels Editor</h2>
- Image editor to change the global color and edit your favorite textures colors
-</div>
-
 You can buy it at [Builtbybit](https://builtbybit.com/resources/pixels-editor-for-minecraft-items.53563/)
 
 ### Index
