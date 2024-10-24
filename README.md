@@ -5,7 +5,8 @@ You can buy it at [Builtbybit](https://builtbybit.com/resources/pixels-editor-fo
 
 ### INDEX
  - [Instalation](/#Instalation)
- - [1.0.1 Modules](https://github.com/danilppzz/Pixels-Editor/blob/main/MODULE.md) `module system at development`
+ - [1.0.1 Modules](https://github.com/danilppzz/Pixels-Editor/blob/main/MODULE.md)
+ - [Module Bundle Pack](https://github.com/danilppzz/Pixels-Editor/releases/tag/ModuleBundle)
 
 
 ## Instalation
